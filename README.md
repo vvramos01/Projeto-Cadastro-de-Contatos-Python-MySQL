@@ -1,3 +1,3 @@
 # Cadastro de Contatos
 
-Projeto simples em Python + MySQL para cadastro e listagem de contatos.
+Projeto acadêmico simples em Python e MySQL para cadastro e listagem de contatos.
